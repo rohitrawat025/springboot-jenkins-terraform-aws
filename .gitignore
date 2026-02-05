@@ -1,0 +1,15 @@
+# Terraform
+.terraform/
+*.tfstate
+*.tfstate.backup
+
+# Jenkins
+jenkins_home/
+
+# Docker
+*.log
+target/
+
+# OS
+.DS_Store
+
